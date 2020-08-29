@@ -2,6 +2,8 @@
 
 > A simple project for learning git and github.
 
+Big Picture by HTML5 UP
+
 Credits:
 
 	Demo Images:
